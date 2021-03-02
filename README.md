@@ -6,7 +6,7 @@ Join in on the serverless community discussion, and grow your personal brand in 
 
 Step-by-step tutorials using Fauna and various programming frameworks including Go, Java, Python, React, Angular, Vue, RedwoodjS, Svelte, Next.JS, and Gatsby 
 
-Articles that illustrate features of Fauna including temporality, streaming, and multi-tenancy,
+Articles that illustrate features of Fauna including temporality, streaming, and multi-tenancy
 
 Larger architectural discussions or best practice tips for building full-stack, serverless apps 
 
