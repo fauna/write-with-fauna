@@ -42,28 +42,28 @@ Interested, but still have questions before submitting a topic? Please see our F
 
 ## FAQ
 
-**Does Fauna have a style guide?**
+### Does Fauna have a style guide? 
 While we don't have a formal writing and style guide, our editors mainly look at overall structure. Please include an intro about what you are building or will be writing about, followed by the body of your content, and don't forget about a conclusion section at the end where you can recap what you've covered and link out to any other helpful resources. 
 
-**Are there any limits to who can participate in the program?**  
+### Are there any limits to who can participate in the program? 
 Due to new state law in California, we can unfortunately not contract with Californians through this program. This is the only current limit on who can participate in Write with Fauna.
 
-**How long do I get to write?**  
+### How long do I get to write?  
 Typically we find that once a contract is signed, it takes the writer between 2-3 weeks to complete a draft article. Once you submit your draft, our editors will provide feedback in 2-3 days. 
 
-**How much will I get paid for my article?** 
+### How much will I get paid for my article?
 While the exact amounts will vary, all articles will be paid between $200 and $500. More basic tutorials and app examples will receive a reward amount closer to $200 while more complex articles that describe production angles will be paid out on the higher end of the scale. 
 
-**How long should my article be?**  
+### How long should my article be?  
 Article length will vary depending on multiple factors such as topic and complexity so we do not impose minimum or maximum word count. Instead, we encourage writers to focus on writing a complete article with examples and context that has a clear introduction, body, and conclusion. Please include code samples whenever applicable. 
 
-**Where will my article be published?** 
+### Where will my article be published? 
 We primarily publish articles to the Fauna blog, or externally publications such as Dev.to. Occasionally, we may use your article for a sponsorship piece in publications such as CSS Tricks and The New Stack. Regardless of where we publish your content, you will always know ahead of time when and where your article will live. In many cases, we will have you publish to any applicable medium or dev.to account. We will also send you a unique tracking parameter to add to any Fauna links so that we can track referral traffic accurately. 
 
-**What is the review process?**  
+### What is the review process?  
 Once you submit your article, a technical editor will review for accuracy and overall content structure. After any technical revisions, the article will go through a final voice review within the Fauna marketing team. The last steps are publication and promotion. 
 
-**Can I publish the article to my personal blog after it’s published through the program?**  
+### Can I publish the article to my personal blog after it’s published through the program? 
 Yes, you may publish to your personal blog once it’s been published to the agreed-upon outlet. Note: our team will ensure/remind you to add a canonical tag or reference where the article originally appeared at the top of your piece. 
 
 Have another question not addressed here? Reach out to us before submitting your topic proposal.    
