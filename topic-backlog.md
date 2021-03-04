@@ -17,6 +17,8 @@ Tutorial: how to do triggers in faunadb (via temporality)
 
 ## Fauna product usage: 
 
+How Fauna's Data Model Makes Iterative Development Simpler
+
 Advantages of Fauna for Throughput and Contention 
 
 Why Fauna doesn’t have connection pooling problems 
