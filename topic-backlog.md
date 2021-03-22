@@ -4,7 +4,7 @@ Sample App using Fauna and Deployed to Digital Ocean - preferably with Go, Java,
 
 Rust Quick start - Fauna and rust 
 
-How to Use Fauana for your XYZ headless CMS 
+How to Use Fauna for your XYZ headless CMS 
 
 How to build an xyz (newsletter for example) website with Fauna 
 
