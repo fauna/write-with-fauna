@@ -1,3 +1,17 @@
+
+## Priority topics for promotion to level three in Q2 2022: 
+
+Fauna and the Serverless Framework
+
+Fauna in serverless applications on the major cloud service providers:
+
+-AWS Lambda and AWS Fargate
+
+-Microsoft Azure Functions
+
+-Google Cloud Run
+
+
 ## Sample Apps/Tutorials: 
 
 Sample App using Fauna and Deployed to Digital Ocean - preferably with Go, Java, or Python frameworks and bonus points for creative apps outside of a to-list 
