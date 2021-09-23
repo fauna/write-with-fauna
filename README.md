@@ -52,7 +52,7 @@ Due to new state law in California, we can unfortunately not contract with Calif
 Typically we find that once a contract is signed, it takes the writer between 2-3 weeks to complete a draft article. Once you submit your draft, our editors will provide feedback in 2-3 days. 
 
 ### How much will I get paid for my article?
-While the exact amounts will vary, all articles will be paid between $200 and $500. More basic tutorials and app examples will receive a reward amount closer to $200 while more complex articles that describe production angles will be paid out on the higher end of the scale. 
+While the exact amounts will vary, all articles will be paid between $100 and $200. More basic tutorials and app examples will receive a reward amount closer to $100 while more complex articles that describe production angles will be paid out on the higher end of the scale. 
 
 ### How long should my article be?  
 Article length will vary depending on multiple factors such as topic and complexity so we do not impose minimum or maximum word count. Instead, we encourage writers to focus on writing a complete article with examples and context that has a clear introduction, body, and conclusion. Please include code samples whenever applicable. 
