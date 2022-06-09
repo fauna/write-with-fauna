@@ -1,6 +1,6 @@
-If you are building commercial-grade applications with Fauna, we invite you to participate in the paid Write with Fauna program. We are also open and encourage video content as well. 
+If you are building commercial-grade applications with Fauna, we invite you to participate in the paid Write with Fauna program. We are also open to and encourage video content as well. 
 
-Join in on the serverless community discussion, and grow your personal brand in the process. We pay our writers up to $700 per article and promote content across our social channels–including a 75k+ audience on Twitter. 
+Join in on the serverless community discussion and grow your personal brand in the process. We pay our writers up to $700 per article and promote content across our social channels–including a 100k+ audience on Twitter. 
 
 ## We are looking for articles that generally cover: 
 
