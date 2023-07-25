@@ -1,20 +1,18 @@
 If you are building commercial-grade applications with Fauna, we invite you to participate in the paid Write with Fauna program. We are also open to and encourage video content as well. 
 
-Join in on the serverless community discussion and grow your personal brand in the process. We pay our writers up to $700 per article and promote content across our social channels–including a 100k+ audience on Twitter. 
+Join in on the community discussion and grow your personal brand in the process. We pay our writers up to $700 per article and promote content across our social channels–including a 100k+ audience on Twitter. 
 
 ## We are looking for articles that generally cover: 
 
 Data modeling strategies applied to real-world business applications  
 
-Larger architectural discussions or best practice tips for building full stack serverless apps 
-
-GraphQL data modeling strategies along with real-world application and examples 
+Larger architectural discussions or best practice tips for building full stack serverless apps
 
  ## How the Program Works: 
 
 Have an idea that you’d like to write about? Great! Here’s what to expect: 
 
-Submit your proposal via https://www2.fauna.com/write-with-fauna along with an abstract and any relevant or recently published articles. 
+Submit your proposal via https://www2.fauna.com/write-with-fauna. You must include an abstract and any relevant or recently published articles. 
 
 The Fauna editorial team will review your submission promptly, and if selected, you will be contacted and asked to provide a more detailed outline. You and the team will also discuss scheduling, placement, and reward amount at this time.  
 
