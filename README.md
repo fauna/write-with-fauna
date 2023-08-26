@@ -18,9 +18,9 @@ The Fauna editorial team will review your submission promptly, and if selected, 
 
 The Fauna team and technical editors will provide reviews until the article is ready for publication on the agreed-upon outlet and date.  
 
-Once you’re post is published you will send an invoice to our team and get paid! 
+Once your post is published you will send an invoice to our team and get paid! 
 
-Note: These general guidelines for our process, but we understand you likely have more questions. Please review our FAQ below for additional details about publishing rights, reward amounts, formatting, and review cycles. 
+Note: These are the general guidelines for our process, but we understand you likely have more questions. Please review our FAQ below for additional details about publishing rights, reward amounts, formatting, and review cycles. 
  
 Interested, but still have questions before submitting a topic? Please see our FAQ below.
 
